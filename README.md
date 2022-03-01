@@ -5,12 +5,12 @@ A simple ASP.NET Core sample web application using .Net Web Api Core and Postgre
 1. [Docker](https://www.docker.com/)
 
 ## Steps
-1. `git clone https://github.com/rajvirtual/docker-aspnetcore-postgresql.git`
+1. `git clone https://github.com/Almaz444/TaskTracker.git`
 
-2. `cd docker-aspnetcore-postgresql`
+2. `Change to your own User and password settings in appsettings.json (DefaultConnection)`
 
-3. `docker-compose build`
+3. `You can use Postman to chekc Web Api`
 
-4. `docker-compose up`
 
-5.  Navigate to http://localhost:8000/swagger
+
+ 
